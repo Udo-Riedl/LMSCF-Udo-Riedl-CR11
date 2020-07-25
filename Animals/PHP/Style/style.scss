@@ -1,0 +1,22 @@
+body{
+    font-family: 'Caveat', cursive;
+    height: 100%;
+    background-color:  rgb(252, 215, 5);
+    background: radial-gradient(
+        circle,
+        rgb(252, 215, 5) 0%,
+        rgb(153, 136, 38) 100%
+    );
+}
+
+.create{
+    display: flex;
+    justify-content: center;
+}
+
+.register{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
